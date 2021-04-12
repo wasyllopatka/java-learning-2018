@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "a1",
+    "artist": "a1",
+    "year": 2001,
+    "genreId": 1
+  },
+  {
+    "id": 2,
+    "name": "a2",
+    "artist": "a2",
+    "year": 2002,
+    "genreId": 2
+  },
+  {
+    "id": 3,
+    "name": "a3",
+    "artist": "a3",
+    "year": 2003,
+    "genreId": 3
+  },
+  {
+    "id": 4,
+    "name": "a4",
+    "artist": "a4",
+    "year": 2004,
+    "genreId": 4
+  }
+]

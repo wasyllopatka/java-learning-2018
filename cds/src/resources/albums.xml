@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<albums>
+    <album id="1">
+        <name>Across from midnight</name>
+        <artist>Joe Cocker</artist>
+        <year>1997</year>
+        <genreId>2</genreId>
+    </album>
+    <album id="2">
+        <name>Hotel California</name>
+        <artist>Eagles</artist>
+        <year>1987</year>
+        <genreId>2</genreId>
+    </album>
+    <album id="3">
+        <name>Thriller</name>
+        <artist>Michael Jackson</artist>
+        <year>1980</year>
+        <genreId>3</genreId>
+    </album>
+    <album id="4">
+        <name>Whitney Houston</name>
+        <artist>Whitney Houston</artist>
+        <year>1990</year>
+        <genreId>4</genreId>
+    </album>
+</albums>

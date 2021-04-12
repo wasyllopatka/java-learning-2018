@@ -1,0 +1,7 @@
+nl\vlopatka\weather\models\DateTime.class
+nl\vlopatka\weather\models\Weather.class
+nl\vlopatka\weather\services\WeatherService.class
+nl\vlopatka\weather\ServletInitializer.class
+nl\vlopatka\weather\services\DateTimeService.class
+nl\vlopatka\weather\controllers\WeatherController.class
+nl\vlopatka\weather\WeatherApplication.class

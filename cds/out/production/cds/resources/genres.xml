@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<genres>
+    <genre id="1">
+        <name>Pop</name>
+    </genre>
+    <genre id="2">
+        <name>Jazz</name>
+    </genre>
+    <genre id="3">
+        <name>Rock</name>
+    </genre>
+    <genre id="4">
+        <name>Rap</name>
+    </genre>
+</genres>
